@@ -32,7 +32,6 @@ class Student extends Person{
   sprintChallenge(subject){
     console.log(`${this.name} has begun sprint challenge on ${subject}`);
   }
-
 }
 
 class Instructors extends Person{

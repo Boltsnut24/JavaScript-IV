@@ -87,7 +87,7 @@ class CharacterStats extends GameObject{
 * should inherit destroy() from GameObject through CharacterStats
 * should inherit takeDamage() from CharacterStats
 */
-/*
+/* 
 function Humanoid(humanoidOptions) {
   CharacterStats.call(this, humanoidOptions);
   this.team = humanoidOptions.team;
